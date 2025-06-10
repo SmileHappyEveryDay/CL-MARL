@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.12+](https://img.shields.io/badge/PyTorch-1.12%2B-orange.svg)](https://pytorch.org/)
 
-Official implementation of our under-review MARL paper:  
+Official implementation of Anonymous authors' under-review MARL paper:  
 **"Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning"**
 
 [[Paper]](https://arxiv.org/abs/) | [[Project Page]](https://github.com/SmileHappyEveryDay/CL-MARL) | [[SMAC Benchmark]](https://github.com/oxwhirl/smac)
@@ -29,7 +29,7 @@ Official implementation of our under-review MARL paper:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/albert-jin/CL2MARL-SMAC.git
+   git clone https://github.com/SmileHappyEveryDay/CL-MARL.git
    cd CL2MARL-SMAC
 
 ## Requirements
